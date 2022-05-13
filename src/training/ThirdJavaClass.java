@@ -1,2 +1,7 @@
-package training;public class ThirdJavaClass {
+package training;
+
+public class ThirdJavaClass {
+    public static void main(String[] args) {
+
+    }
 }
