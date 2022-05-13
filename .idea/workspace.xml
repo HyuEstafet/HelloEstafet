@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba3d0ee-0e6e-4faf-8e4c-46dd548ef958" name="Changes" comment="" />
+    <list default="true" id="fba3d0ee-0e6e-4faf-8e4c-46dd548ef958" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/training/SecondJavaClass.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
